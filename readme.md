@@ -1,11 +1,22 @@
-# P422 Project (REPLACE ME)
+# MEAN-Stack-Professonial-Blogging-Station
 
-Here, you should put your project proposal. It should be written in english text and describe what you intend to build along with any information necessary. Please use proper markdown formatting. You can find a guide here: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+My project will be a MEAN Stack Blog. Built with Mongoose/MongoDB, Express, Angular  and Node.js
 
-Your project should have the following requirements met:
+# Basic Functionalities
 
-* A server side component written with javascript that stores information in a database
-* A client side component written in Angular
-* At least four different interactive views for the client
+A blog to post software development, music, and gardening related post. IT will have full CRUD capabilities and user authentication, and allows multiple users to post and leave comments.
 
-You may choose whatever kid of project you like within the ethical guidlines of the university. Commit your propasal to this file and we will discuss your project idea if it needs improvement.
+ - User Authentication
+ - User Post Dashboard
+ - Categorisable Posts
+ - Static pages with article links pulled from APIs 
+ - Text/Code/Image input fields for posts
+
+
+Requirment notes:
+
+ - Backend built in Node.js
+ - Express/Bodyparser for handling routing/post and user API
+ - Mongoose for MongoDB integration
+ - passport for JWT authentication
+ - Angular for the front end
