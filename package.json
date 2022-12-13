@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/IUS-CS/p422-project-AdamsStWeb#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
